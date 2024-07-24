@@ -1,0 +1,41 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3635" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/drawable/gradient_background.xml" value="0.1925" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3635" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/drawable/lgin_icons.xml" value="0.2975" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/drawable/splash_image.xml" value="0.1925" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/drawable/stroke.xml" value="0.3635" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/layout/activity_home_screen.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/layout/activity_intro1.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/layout/activity_main.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/layout/activity_main2.xml" value="0.3625" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/layout/activity_new.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/layout/activity_next.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/layout/activity_nextt.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/layout/activity_nexttt.xml" value="0.2860196665241556" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/layout/activity_sin_up.xml" value="0.2860196665241556" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/layout/activity_skpone.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/layout/activity_splash_screen.xml" value="0.3625" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/layout/activity_start.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3635" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/F_project/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3635" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3625" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
